@@ -1,4 +1,7 @@
-inlabel=20240701init
+#!/bin/bash
+
+##
+trainlabel=20240701init
 
 # -- signal sample for training
 inputs=/afs/cern.ch/work/w/wangj/public/summer2024/mcfilelist_OfficialMCPthat5And8_GammaPlusGoing__add_zdcanalyzer-zdcdigi_sumPlus_sumMinus.root
